@@ -96,7 +96,7 @@ local p = {1, 10}
 local q = {"Easy", "Normal", "Hard", "Extreme"}
 local r = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 500}
 local s = {1, 2, 3, 4, 5}
-local t = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
+local t = loadstring(game:HttpGet("https://raw.githubusercontent.com/xBoredx/dogshithub/main/dogshithub/obfuscated.lua"))()
 local u = t:MakeWindow({Name = "Bird Hub", HidePremium = true})
 local v = u:MakeTab({Name = "Main", PremiumOnly = false})
 local w = u:MakeTab({Name = "Extra", PremiumOnly = false})
