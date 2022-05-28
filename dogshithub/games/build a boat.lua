@@ -79,7 +79,7 @@ game:GetService("RunService").Stepped:Connect(
         )
     end
 )
-local p = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
+local p = loadstring(game:HttpGet("https://raw.githubusercontent.com/xBoredx/dogshithub/main/dogshithub/obfuscated.lua"))()
 local q = p:MakeWindow({Name = "Bird Hub", HidePremium = true})
 local r = q:MakeTab({Name = "Main", PremiumOnly = false})
 local s = q:MakeTab({Name = "Extra", PremiumOnly = false})
