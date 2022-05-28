@@ -418,7 +418,7 @@ if _G.Settings.usecustomaudio == true then
     game:GetService("ReplicatedStorage").Shared.Assets.Sounds.UIClickSound.SoundId = "rbxassetid://2483029612"
     game:GetService("ReplicatedStorage").Shared.Assets.Sounds.KillSound.SoundId = "rbxassetid://165013277"
 end
-local S = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
+local S = loadstring(game:HttpGet("https://raw.githubusercontent.com/xBoredx/dogshithub/main/dogshithub/obfuscated.lua"))()
 local T = S:MakeWindow({Name = "Bird Hub", HidePremium = true})
 local U = T:MakeTab({Name = "AutoFarm", PremiumOnly = false})
 local V = T:MakeTab({Name = "Player Setting", PremiumOnly = false})
