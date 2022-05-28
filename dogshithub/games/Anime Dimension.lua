@@ -193,7 +193,7 @@ local q = {
 local r = {"Easy", "Hard", "Nightmare", "Infinite"}
 local s = {"Capsule Series 1", "Raid Capsule", "Infinity Nojo Capsule", "Esper Capsule"}
 local t = {"Esper Raid", "Tengoku Raid", "Hirito Raid", "Titan Raid", "Infinity Nojo Raid"}
-local u = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
+local u = loadstring(game:HttpGet("https://raw.githubusercontent.com/xBoredx/dogshithub/main/dogshithub/obfuscated.lua"))()
 local v = u:MakeWindow({Name = "Bird Hub", HidePremium = true})
 local w = v:MakeTab({Name = "Main", PremiumOnly = false})
 local x = v:MakeTab({Name = "Extra", PremiumOnly = false})
